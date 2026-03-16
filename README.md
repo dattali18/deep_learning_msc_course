@@ -1,3 +1,3 @@
-# TensorFlow
+# Deep Learning Course
 
-Tutorial on using TensorFlow
+This repo is for the Deep Learning course Master level.

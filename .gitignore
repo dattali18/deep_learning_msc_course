@@ -314,3 +314,4 @@ uv.lock
 pyproject.toml
 
 *.h5
+*.keras
